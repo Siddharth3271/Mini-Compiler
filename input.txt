@@ -1,0 +1,40 @@
+input age;
+assign age plus 5 to newAge;
+print(newAge);
+
+assign "Hello" to str1;
+assign "World" to str2;
+
+assign mergestri(str1, str2) to mergedStr;
+print(mergedStr);
+
+assign tolowercase(mergedStr) to lowerStr;
+print(lowerStr);
+
+assign touppercase(str1) to upperStr;
+print(upperStr);
+
+assign stringlength(str1) to len1;
+print(len1);
+
+assign indexof(str1, "e") to idx;
+print(idx);
+
+assign characterat(str2, 2) to charAtPos;
+print(charAtPos);
+
+if (age greater than 18) {
+    print("You are an adult.");
+} else {
+    print("You are not an adult.");
+}
+
+assign 0 to i;
+while (i less than 3) {
+    print(i);
+    assign i plus 1 to i;
+}
+
+for (assign 0 to j; j less than 3; assign j plus 1 to j) {
+    print(j);
+}
