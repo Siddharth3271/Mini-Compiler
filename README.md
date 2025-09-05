@@ -79,6 +79,9 @@ assign 9 mod 2 to rem;
 > [!NOTE]
 >we have also printed the lexical analysis part of the tokens
 
+### All stages of compiler
+![Stages of Compiler](https://media.geeksforgeeks.org/wp-content/uploads/compilerDesign.jpg)
+
 ### Prerequisites
 Before you start, make sure you have the following installed:
 
