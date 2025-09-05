@@ -110,7 +110,7 @@ sudo apt-get install bison flex g++ make
 
 ### ScreenShots
 
-![Output of Compiler](assests/ouput.png)
+![Output of Compiler](assests/output.png)
 
 ![Error Message](assests/error.png)
 
