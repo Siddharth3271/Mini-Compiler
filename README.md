@@ -97,7 +97,11 @@ sudo apt-get install bison flex g++ make
 🔮 Roadmap
 
 ✅ String handling functions
+
 ✅ For/While loops
+
 ✅ If/Else branching
+
 🔲 Functions and user-defined methods
+
 🔲 Arrays and collections
