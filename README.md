@@ -76,6 +76,8 @@ assign 9 mod 2 to rem;
 | `while (...) { ... }`           | While loop                  | `while (i less than 5) { ... }`                                    |
 | `for(init; cond; step) { ... }` | For loop                    | `for (assign 0 to i; i less than 5; assign i plus 1 to i) { ... }` |
 
+> [!NOTE]
+>we have also printed the lexical analysis part of the tokens
 
 ### Prerequisites
 Before you start, make sure you have the following installed:
@@ -105,3 +107,10 @@ sudo apt-get install bison flex g++ make
 🔲 Functions and user-defined methods
 
 🔲 Arrays and collections
+
+### ScreenShots
+
+![Output of Compiler](assests/ouput.png)
+
+![Error Message](assests/error.png)
+
